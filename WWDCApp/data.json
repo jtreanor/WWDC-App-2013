@@ -1,0 +1,59 @@
+[
+ {
+ "section" : "Me",
+ "items" : [
+            {
+            "detailImageName" : "me.jpg",
+            "title" : "ABOUT ME",
+            "imageName" : "jamestreanor.png",
+            "description" : "My name is James Treanor. I am a 21 year computer science student from Ennis, in Ireland.\n\nMy hobbies include surfing and scuba diving but my passion lies in software. I love programming.\n\nAfter a part time job at a local web development company in 2008, I purchased the original iPhone. Its simplicity and beauty ashtonished me. Shortly after the SDK was released, I dived in. I have been developing for iOS ever since."
+            },
+            {
+            "detailImageName" : "me.jpg",
+            "title" : "MY EDUCTAION",
+            "imageName" : "education.png",
+            "description" : "I have completed my third year of University College Cork's BSc. in Computer Science. This year I achieved an overall grade of 86.5%. This was the highest grade in my class.\n\n In first and second year I was placed second in my class.\n\nOutside of my formal studies, I constantly drive myself to learn about a huge variety of topics in computing. These range from computer science theory and compiler design to mobile app development.\n In April 2013 I attended Úll, a wonderful mobile development conference in Ireland. This opened my eyes even more to the wonders of mobile software."
+            }
+            ]
+ },
+ {
+ "section" : "My Apps",
+ "items" : [
+            {
+            "detailImageName" : "LC.png",
+            "title" : "LEAVING CERTIFICATE POINTS CALCULATOR",
+            "imageName" : "lcLarge.png",
+            "description" : "After I sat my leaving certificate exams in 2010, I became very aware of the panic many students endure on the day of their results. The leaving certificate points system is confusing and many students miscalculate their points. To solve this, I developed a simple iPhone app to take the stress out of this process. When my results arrived, I had my points calculated in seconds, while many students were stressed and disappointed. They were thrilled to receive a helping hand.\n\n The app has been very popular among students, receiving as many as 20,000 downloads since it's release. In August 2012, it was the top ranked free app in Ireland."
+            },
+            {
+            "detailImageName" : "cork bus.png",
+            "title" : "CORK BUS",
+            "imageName" : "bus.png",
+            "description" : "As a project in university this year, I developed an app to provide real time departure data for buses in Cork city. Previously, this data was almost inaccessible and timetables are quite unreliable.\n\n My friends and I have had hugely enjoyed using this app.\n\nIt will be released in the AppStore shortly."
+            },
+            {
+            "detailImageName" : "exercise.png",
+            "title" : "CROÍ HEARTWISE",
+            "imageName" : "heartLarge.png",
+            "description" : "In 2011, I was approached by Croí, the West of Ireland Heart Foundation, to develop a suite of apps. These apps, Croí HeartWise and Croí FoodWise help their patients monitor their lifestyle in order to maintain a healthy heart.\n\n Croí HeartWise is designed to allow users to manage their diet, their smoking intake and their alcohol consumption as well as exercise. Feedback from users has been very positive."
+            },
+            {
+            "detailImageName" : "foodwise.png",
+            "title" : "CROÍ FOODWISE",
+            "imageName" : "foodLarge.png",
+            "description" : "In 2011, I was approached by Croí, the West of Ireland Heart Foundation, to develop a suite of apps. These apps, Croí HeartWise and Croí FoodWise help their patients monitor their lifestyle in order to maintain a healthy heart.\n\n Croí HeartWise is a companion to Croí's 'Traffic Light' program. Designed to be used while shopping, patients receive a quote of 'red','green' and 'amber' items."
+            }
+            ]
+ },
+ {
+ "section" : "Tapadoo Apps",
+ "items" : [
+            {
+            "detailImageName" : "me.jpg",
+            "title" : "TAPADOO",
+            "imageName" : "tapadoo.png",
+            "description" : "In 2012, I was fortunate to undertake a 4 month internship with a Dublin based app development company named Tapadoo. In April 2013 I began my second internship with Tapadoo.\n\n Apps I have worked on include (redacted for Github).\n\n At Tapadoo, I have learned about and used countless amazing iOS technologies of which I had little or no prior knowledge. Examples include using Core Graphics to create compelling and unique custom UI controls and giving an app it's final flourishes with some Core Animation magic.\n'n Surrounded by veteran programmers, I have learned so much about software development, team work and building great user experiences."
+            }
+            ]
+ }
+ ]
